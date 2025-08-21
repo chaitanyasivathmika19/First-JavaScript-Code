@@ -22,6 +22,6 @@ It covers different ways to display content in a web page and interact with user
 - Logs printed in the console.  
 
 ## Structure 
-|
-|---index.html
-|---practice1.js
+.
+├── index.html
+└── practice1.js
