@@ -20,3 +20,8 @@ It covers different ways to display content in a web page and interact with user
 - Text written on the document.  
 - Messages shown in alert and prompt boxes.  
 - Logs printed in the console.  
+
+## Structure 
+|
+|---index.html
+|---practice1.js
